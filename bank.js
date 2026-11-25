@@ -118,7 +118,7 @@ const BANK = {
     {"id": "v-59b5dd3ae03dc0","reading": "じつじょう","word": "実情","meaning": "實際存在的情形","example": "現場の実情を把握する","categories": ["假名優先複習表 5"]},
     {"id": "v-c68e68511edbb5","reading": "きちんと","word": "きちんと","meaning": "規整、妥善或確實地","example": "書類をきちんと整理する","categories": ["假名優先複習表 5"]},
     {"id": "v-f7f1e8999f0b11","reading": "かいわがはずむ","word": "会話が弾む","meaning": "聊得起勁、談話熱絡","example": "共通の趣味の話で会話が弾む","categories": ["假名優先複習表 5"]},
-    {"id": "v-3b4b626b7018d5","reading": "えがのしゅうふく","word": "絵画の修復","meaning": "修復受損的畫作","example": "劣化した絵画の修復を依頼する","categories": ["假名優先複習表 5"]},
+    {"id": "v-3b4b626b7018d5","reading": "かいがのしゅうふく","word": "絵画の修復","meaning": "修復受損的畫作","example": "劣化した絵画の修復を依頼する","categories": ["假名優先複習表 5"]},
     {"id": "v-5926c2a5d23c44","reading": "ほこりまみれになる","word": "埃まみれになる","meaning": "弄得全身沾滿灰塵","example": "倉庫を片付けて埃まみれになる","categories": ["假名優先複習表 5"]},
     {"id": "v-d8d9c51e42b823","reading": "まんいんでんしゃ","word": "満員電車","meaning": "載滿乘客、擁擠的電車","example": "朝の満員電車に乗る","categories": ["假名優先複習表 5"]},
     {"id": "v-06a67504197eaa","reading": "いじをはらずに","word": "意地を張らずに","meaning": "放下固執或逞強的態度","example": "意地を張らずに助けを求める","categories": ["假名優先複習表 5"]},
